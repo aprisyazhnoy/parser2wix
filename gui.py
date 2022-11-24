@@ -7,7 +7,7 @@ from tkinter import *
 from tkinter import ttk
 from tkinter import filedialog as fd
 from tkinter.messagebox import showinfo
-
+## function def who use module filedialog from tkinter
 def select_file():
     filetypes = (
         ('text files', '*.txt'),
