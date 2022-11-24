@@ -37,7 +37,7 @@ ttk.Label(frm, text="column1row0").grid(column=1,row=0)
 ttk.Button(frm, text="Quit", command = root.destroy).grid(column=1,row=2)
 
 ttk.Button(frm, text="Scan(rescan)").grid(column=0,row=2)
-
+##GET FROM https://www.pythontutorial.net/tkinter/tkinter-open-file-dialog/
 open_button = ttk.Button(
     frm,
     text='Open a File',
