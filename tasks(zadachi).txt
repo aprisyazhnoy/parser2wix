@@ -1,2 +1,4 @@
 find tag with class 
 <div class="waffle-revisions-container">
+mnemonic scheme
+https://photos.app.goo.gl/AY8a3YQh3WF7hE2h7
